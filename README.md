@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @moukhan
-- 👀 I’m interested in Life
-- 🌱 I’m currently learning Angular & Entreprise Architecture 
+- 👋 Hi, I’m Khalid
+- 👀 I’m interested in Hardware Integrations
+- 🌱 I’m currently learning Entreprise Architecture, Hardware Integrations, Windowns Forms, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @moukhan on Twitter 
